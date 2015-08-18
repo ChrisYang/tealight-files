@@ -15,4 +15,4 @@ from tealight.art import(line,
                          circle,
                          box,
                          rectangle)
-line(10,10,20,20)
+
